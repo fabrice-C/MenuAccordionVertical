@@ -1,3 +1,3 @@
 # Menu Accordion Vertical
 
-Menu Accordéon vertical
+Menu Accordéon vertical visible à gauche du texte principal
